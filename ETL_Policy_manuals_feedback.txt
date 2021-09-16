@@ -1,0 +1,35 @@
+Mediation reference to be added in the ETL definition slide
+
+frequency of file transfer would be immediate as soon as files are processed by mediation system
+continuous....files will keep flowing..
+we will process once a day....
+
+ftp -sftp
+
+date- removed from cdr
+
+
+cdr file naming convention is different for all operators
+
+
+it depends on cdr node-- vendor
+msc-sgsn-network vendor--cdr naming convention will be according to them
+
+
+source -- qb to be removed
+seatel ---more than one source
+
+remove scope fiel content...only last point to remain
+
+
+Impact -- Duplicate DB
+--Same IMEI may be assigned to different IMEI
+
+
+
+Rule -- enable/disable--- change in policy document
+
+Static file rule 
+line to be removed -- the same can be defined using policy mgt GUI
+
+
