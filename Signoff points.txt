@@ -1,0 +1,13 @@
+1. New folder CEIR to be created and subfolders for each task to be created there
+2. Upload all documents 
+3. SMS and Email integration documents
+4. Check with Rajneesh --- What is acknowledgement of receipt and status of software??  What is expected in this ?
+5. "Service description – hardware repair and replacement" Shyam to share
+6. Operational Manual -- to be prepared 
+7. What is expected in Point 5 Support & Maintenance
+8. Backup and restore procedure to be procured from STL.. 
+9. CEIR security document to be procured from STL --- Ajay will share
+10. Check with Rajneesh if we place the documents as per the volume or we create folders as per the fucntionality. Also if we need to maintain older versions or create a fresh folder with latest version
+
+
+support--- what regular maintenance needs to be done---operational 
